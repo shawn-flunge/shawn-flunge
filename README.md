@@ -2,6 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/go_to_the_blog-000?style=for-the-badge&link=https://shawnis.dev/blog)
 
+[![Static Badge](https://img.shields.io/badge/go_to_the_blog-000?style=for-the-badge&link=https://shawnis.dev/blog)](https://shawnis.dev/blog)
 <!--
 **shawn-flunge/shawn-flunge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
