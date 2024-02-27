@@ -2,10 +2,10 @@
 
 I've worked for over 2 years as a mobile app developer with Flutter.
 
-I've been writing some posts on my blog. The main topic I focus on in my writing is creating interesting UI/UX and turning it into a Flutter widget. 
+I've been writing some posts on my blog. The main topic I focus on in my writing is creating interesting UI/UX and turning it into a Flutter widget.  
 [![Static Badge](https://img.shields.io/badge/go_to_the_blog-ffffff?style=for-the-badge&link=https://shawnis.dev/blog)](https://shawnis.dev/blog)
 
-I've been maintaining a open source project "Localify" which is for shortening localization task.
+I've been maintaining a open source project "Localify" which is for shortening localization task.  
 [![Static Badge](https://img.shields.io/badge/go_to_the_code-000?style=for-the-badge&link=https://shawnis.dev/blog)](https://shawnis.dev/blog)
 
 <!--
