@@ -6,8 +6,7 @@ I've been writing some posts on my blog. The main topic I focus on in my writing
 [![Static Badge](https://img.shields.io/badge/go_to_the_blog-000?style=for-the-badge&link=https://shawnis.dev/blog)](https://shawnis.dev/blog)
 
 I've been maintaining a open source project "Localify" which is for shortening localization task.  
-[![Static Badge](https://img.shields.io/badge/go_to_the_code-000?style=for-the-badge&link=https://shawnis.dev/blog)](https://shawnis.dev/blog)
-
+[![Static Badge](https://img.shields.io/badge/go_to_the_code-000?style=for-the-badge&link=https://github.com/shawn-flunge/localify)](https://github.com/shawn-flunge/localify) [![Static Badge](https://img.shields.io/badge/go_to_pub.dev-0553B1?style=for-the-badge&link=https://pub.dev/packages/localify)](https://pub.dev/packages/localify)
 <!--
 **shawn-flunge/shawn-flunge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
