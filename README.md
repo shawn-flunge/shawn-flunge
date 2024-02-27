@@ -1,6 +1,8 @@
 ### Hi I'm Shawn 👋
 
 
+![Static Badge](https://img.shields.io/badge/go_to_the_blog-000?style=for-the-badge&link=https%3A%2F%2Fshawnis.dev%2Fblog)
+
 
 
 <!--
